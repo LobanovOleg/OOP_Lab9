@@ -3,11 +3,11 @@
 #include <cstdlib>
 #include <cstring>
 #include <random>
-#include "Triangle.h"
-#include "Foursquare.h"
-#include "Octagon.h"
-#include "TList.h"
-#include "TNList.h"
+#include "Rhombus.h"
+#include "Pentagon.h"
+#include "Trapeze.h"
+#include "Vector.h"
+#include "TAllocationBlock.h"
 
 
 int main(void)
