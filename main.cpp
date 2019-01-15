@@ -6,8 +6,8 @@
 #include "Rhombus.h"
 #include "Pentagon.h"
 #include "Trapeze.h"
-#include "Vector.h"
-#include "TAllocationBlock.h"
+#include "TNlist.h"
+#include "TList.h"
 
 
 int main(void)
